@@ -24,17 +24,17 @@ To build an ISO with a variant for a specific purpose (or just a diferent deskto
 The available variants are as follows:
 
 * Official Kali variants (from kali repository)
-..* default (used by default)
-..* e17
-..* gnome (default is a symlink for gnome)
-..* i3wm
-..* kde
-..* light
-..* lxde
-..* mate
-..* xfce
+ * default (used by default)
+ * e17
+ * gnome (default is a symlink for gnome)
+ * i3wm
+ * kde
+ * light
+ * lxde
+ * mate
+ * xfce
 * My custom variants
-..* headless (No GUI, For server use)
+ * headless (No GUI, For server use)
  
 
 Some Debian bugs filed for issues encountered in Kali:
