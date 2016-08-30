@@ -2,6 +2,8 @@
 
 [Official Documentation](http://docs.kali.org/development/live-build-a-custom-kali-iso)
 
+My custom variants come with no packages predefined, if you want to add them, edit the file under live-build-config/kali-config/variant-<variant>/package-lists/kali.list.chroot
+
 Clone a copy
 ```bash
 apt-get install curl git live-build cdebootstrap
@@ -35,6 +37,7 @@ The available variants are as follows:
  * xfce
 * My custom variants
  * headless (No GUI, For server use)
+ * live (For USB use without install)
  
 
 # Some Debian bugs filed for issues encountered in Kali:
