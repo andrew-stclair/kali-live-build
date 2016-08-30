@@ -3,6 +3,7 @@ kali-linux
 kali-desktop-live
 
 # Kali applications
+openssh-server
 
 # You can customize the set of Kali applications to install
 # (-full is the default, -all is absolutely everything, the rest
