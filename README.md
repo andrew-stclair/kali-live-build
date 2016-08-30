@@ -37,7 +37,7 @@ The available variants are as follows:
  * headless (No GUI, For server use)
  
 
-Some Debian bugs filed for issues encountered in Kali:
+# Some Debian bugs filed for issues encountered in Kali:
 
 [684865]: live-build: lb_binary_syslinux fails to include flavour in menu entry
 
