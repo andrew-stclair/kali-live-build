@@ -7,7 +7,7 @@ kali-desktop-live
 # You can customize the set of Kali applications to install
 # (-full is the default, -all is absolutely everything, the rest
 # corresponds to various subsets)
-kali-linux-full
+# kali-linux-full
 # kali-linux-all
 # kali-linux-sdr
 # kali-linux-gpu
