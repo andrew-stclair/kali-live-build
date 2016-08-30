@@ -2,7 +2,7 @@
 
 [Official Documentation](http://docs.kali.org/development/live-build-a-custom-kali-iso)
 
-My custom variants come with no packages predefined, if you want to add them, edit the file under live-build-config/kali-config/variant-<variant>/package-lists/kali.list.chroot
+All variants come with no packages predefined, if you want to add them, edit the file under live-build-config/kali-config/variant-<variant>/package-lists/kali.list.chroot
 
 Clone a copy
 ```bash
