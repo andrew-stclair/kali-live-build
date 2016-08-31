@@ -4,6 +4,8 @@
 
 All variants come with **no packages predefined**, this is to make the ISO's as light as possible and the resulting install as clean as posible. If you want to add them, edit the file under live-build-config/kali-config/variant-\<variant\>/package-lists/kali.list.chroot
 
+If you have an idea for one of my variants, I am open to suggestions. Either make the change yourself in a pull request or create an issue.
+
 Clone a copy
 ```bash
 apt-get install curl git live-build cdebootstrap
