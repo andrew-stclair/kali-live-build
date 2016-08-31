@@ -38,7 +38,7 @@ The available variants are as follows:
  * mate
  * xfce
 * My custom variants
- * headless (No GUI, ssh enabled by default **with root access**)
+ * headless (No GUI, ssh enabled by default **with root login enabled**)
  * live (For USB use without install, you still need to [setup persistence](http://docs.kali.org/downloading/kali-linux-live-usb-persistence) yourself)
  
 
