@@ -39,7 +39,7 @@ The available variants are as follows:
  * xfce
 * My custom variants
  * headless (No GUI, ssh enabled by default **with root access**)
- * live (For USB use without install)
+ * live (For USB use without install, you still need to [setup persistence](http://docs.kali.org/downloading/kali-linux-live-usb-persistence) yourself)
  
 
 # Some Debian bugs filed for issues encountered in Kali:
