@@ -29,3 +29,8 @@ xorg
 mate-archive-keyring
 #endif
 mate-desktop-environment
+
+usbutils
+ieee-data
+wavemon
+network-manager-gnome

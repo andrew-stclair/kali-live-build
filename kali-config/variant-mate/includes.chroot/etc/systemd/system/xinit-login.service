@@ -1,0 +1,8 @@
+[Unit]
+After=systemd-user-sessions.service
+ 
+[Service]
+ExecStart=/bin/su root -l -c /usr/bin/startx -- VT01
+ 
+[Install]
+WantedBy=multi-user.target
