@@ -2,7 +2,7 @@
 
 [Official Documentation](http://docs.kali.org/development/live-build-a-custom-kali-iso)
 
-All variants come with **no packages predefined**, if you want to add them, edit the file under live-build-config/kali-config/variant-\<variant\>/package-lists/kali.list.chroot
+All variants come with **no packages predefined**, this is to make the ISO's as light as possible and the resulting install as clean as posible. If you want to add them, edit the file under live-build-config/kali-config/variant-\<variant\>/package-lists/kali.list.chroot
 
 Clone a copy
 ```bash
@@ -36,7 +36,7 @@ The available variants are as follows:
  * mate
  * xfce
 * My custom variants
- * headless (No GUI, For server use)
+ * headless (No GUI, ssh enabled by default **with root access**)
  * live (For USB use without install)
  
 
