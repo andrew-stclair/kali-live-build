@@ -1,0 +1,2 @@
+dconf write "/org/gnome/desktop/background/picture-uri" "'file:///usr/share/wallpapers/kali/contents/images/geo-shapes-black.png'"
+dconf write "/org/gnome/desktop/screensaver/picture-uri" "'file:///usr/share/wallpapers/kali/contents/images/geo-shapes-black.png'"
