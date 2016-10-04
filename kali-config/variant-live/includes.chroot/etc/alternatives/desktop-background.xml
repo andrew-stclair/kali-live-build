@@ -1,0 +1,14 @@
+<background>
+  <static>
+    <duration>8640000.0</duration>
+    <file>
+      <size width="1024" height="768">/usr/share/images/desktop-base/dark-minimalist-wallpaper_1024x768.png</size>
+      <size width="1280" height="1024">/usr/share/images/desktop-base/dark-minimalist-wallpaper_1280x1024.png</size>
+      <size width="1280" height="800">/usr/share/images/desktop-base/dark-minimalist-wallpaper_1280x800.png</size>
+      <size width="1600" height="1200">/usr/share/images/desktop-base/dark-minimalist-wallpaper_1600x1200.png</size>
+      <size width="1920" height="1080">/usr/share/images/desktop-base/dark-minimalist-wallpaper_1920x1080.png</size>
+      <size width="1920" height="1200">/usr/share/images/desktop-base/dark-minimalist-wallpaper_1920x1200.png</size>
+      <size width="2560" height="1440">/usr/share/images/desktop-base/dark-minimalist-wallpaper_2560x1440.png</size>
+    </file>
+  </static>
+</background>
