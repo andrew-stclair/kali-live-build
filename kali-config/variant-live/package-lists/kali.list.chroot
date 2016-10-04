@@ -2,8 +2,10 @@
 kali-linux
 kali-desktop-live
 
-# Kali applications
+# Graphical desktop required for live
+kali-desktop-gnome
 
+# Kali applications
 # You can customize the set of Kali applications to install
 # (-full is the default, -all is absolutely everything, the rest
 # corresponds to various subsets)
