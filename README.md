@@ -6,7 +6,7 @@ All variants come with **no packages predefined**, this is to make the ISO's as 
 
 If you have an idea for one of my variants, I am open to suggestions. Either make the change yourself in a pull request or create an issue.
 
-Clone a copy
+# Clone a copy
 ```bash
 apt-get install curl git live-build cdebootstrap
 git clone https://github.com/St0ner1995/live-build-config.git
