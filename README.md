@@ -9,7 +9,7 @@ If you have an idea for one of my variants, I am open to suggestions. Either mak
 # Clone a copy
 ```bash
 apt-get install curl git live-build cdebootstrap
-git clone https://github.com/St0ner1995/live-build-config.git
+git clone https://github.com/andrew-stclair/live-build-config.git
 cd live-build-config
 ```
 
