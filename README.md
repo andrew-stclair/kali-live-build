@@ -1,4 +1,4 @@
-# Kali Linux live-build-config
+# Kali Linux live-build config
 
 [Official Documentation](http://docs.kali.org/development/live-build-a-custom-kali-iso)
 
@@ -9,8 +9,8 @@ If you have an idea for one of my variants, I am open to suggestions. Either mak
 # Clone a copy
 ```bash
 apt-get install curl git live-build cdebootstrap
-git clone https://github.com/andrew-stclair/live-build-config.git
-cd live-build-config
+git clone https://github.com/andrew-stclair/kali-live-build.git
+cd kali-live-build
 ```
 
 # Build ISO
